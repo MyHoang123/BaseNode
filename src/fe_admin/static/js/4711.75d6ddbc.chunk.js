@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksp_itc=self.webpackChunksp_itc||[]).push([[4711],{84711:(e,t,a)=>{var v=a(24994);Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var h=v(a(40039)),s=a(70579);t.default=(0,h.default)((0,s.jsx)("path",{d:"M7 15v2h10v-2zm-4 6h18v-2H3zm0-8h18v-2H3zm4-6v2h10V7zM3 3v2h18V3z"}),"FormatAlignCenter")}}]);
+//# sourceMappingURL=4711.75d6ddbc.chunk.js.map

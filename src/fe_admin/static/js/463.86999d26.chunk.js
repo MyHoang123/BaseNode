@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksp_itc=self.webpackChunksp_itc||[]).push([[463],{20463:(e,t,a)=>{var u=a(24994);Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var h=u(a(40039)),l=a(70579);t.default=(0,h.default)((0,l.jsx)("path",{d:"M6 17h3l2-4V7H5v6h3zm8 0h3l2-4V7h-6v6h3z"}),"FormatQuote")}}]);
+//# sourceMappingURL=463.86999d26.chunk.js.map

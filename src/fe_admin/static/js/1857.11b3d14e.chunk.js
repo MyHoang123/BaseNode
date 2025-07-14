@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksp_itc=self.webpackChunksp_itc||[]).push([[1857],{71857:(e,a,c)=>{var s=c(24994);Object.defineProperty(a,"__esModule",{value:!0}),a.default=void 0;var t=s(c(40039)),p=c(70579);a.default=(0,t.default)((0,p.jsx)("path",{d:"M19 5H5c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2m0 12H5V7h14z"}),"CropLandscape")}}]);
+//# sourceMappingURL=1857.11b3d14e.chunk.js.map
